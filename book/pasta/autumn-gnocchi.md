@@ -23,7 +23,7 @@
 
 ## Directions
 
-Estimated total time: 20 minutes
+Estimated total time: 35 minutes
 
 1. Bring a large pot of salted water to a boil.
 Add the gnocchi to the pot and boil 2-3 minutes, or until the gnocchi float to the surface.
