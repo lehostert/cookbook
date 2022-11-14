@@ -7,3 +7,6 @@ parts:
   - caption: Pasta
     chapters:
     - file: pasta/autumn-gnocchi
+  - caption: Swiss
+    chapters:
+    - file: swiss/fondue
