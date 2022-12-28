@@ -1,7 +1,7 @@
 # Oma Joanne Feickert's Biscuits
 
 ```{warning}
-This recipe uses nonstandard measurements and needs to be revised to use weight measurements.
+This recipe is from the mid 1900s and uses nonstandard measurements and needs to be revised to use weight measurements.
 ```
 
 ## Ingredients
