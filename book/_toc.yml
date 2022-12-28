@@ -10,3 +10,6 @@ parts:
   - caption: Swiss
     chapters:
     - file: swiss/fondue
+  - caption: Pastry
+    chapters:
+    - file: pastry/biscuits
