@@ -14,7 +14,7 @@ This recipe uses nonstandard measurements and needs to be revised to use weight 
 ## Directions
 
 1. Mix flour and baking powder.
-2. Add Crisco to flour mixture and cut with a pastry cutter until pea sized lumps form.
+2. Add Crisco to flour mixture and cut with a pastry cutter until pea sized lumps form and it resembles coarse meal.
 3. Add milk and mix until balls form.
 4. Toss lightly on floured board.
 5. Roll gently till 0.5 inch thick.
